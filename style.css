@@ -1,9 +1,12 @@
 body{
     background-color: #092328;
+    color: #8BBB92;
 }
 
 .project_page{
     background-color: #2A835F;
     border: 5px solid #12544F;
     color: #092328;
+    width: 250px;
+    height: 150px;
 }
